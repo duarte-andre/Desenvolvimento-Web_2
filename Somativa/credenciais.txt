@@ -1,0 +1,11 @@
+email: admin@admin.com
+senha : admin
+
+email: autor@autor.com
+senha : adssds22
+
+email: biblio@biblio.com
+senha : adssds22
+
+email: user@user.com
+senha : adssds22
